@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Petagram</string>
+    <string name="appMenuStar">Favoritos</string>
+    <string name="appMenuAcercaDe">Acerca de</string>
+    <string name="appMenuContacto">Contacto</string>
+
+    <string name="strBioName">RaulGH</string>
+    <string name="strBioFullName1">Nombre:</string>
+    <string name="strBioFullName2">Raúl</string>
+    <string name="strBioSureame1">Apellido:</string>
+    <string name="strBioSureame2">Guerra</string>
+    <string name="strBioAge1">Edad:</string>
+    <string name="strBioAge2">28</string>
+    <string name="strBioBio1">Biografía:</string>
+    <string name="strBioBio2">Estudiante de "Desarrollo de aplicaciones móviles con Android". Universidad Nacional Autónoma de México</string>
+
+    <string name="strCommentName">Nombre</string>
+    <string name="strCommentEmail">Email</string>
+    <string name="strCommentPassword">Password</string>
+    <string name="strCommentComment">Contenido</string>
+    <string name="strCommentButton">Enviar</string>
+
+    <string name="strPerfilMascotaName">Nuestra mascota</string>
+
+    <string name="strDataBasedExistVariable">DataBasedExistVariable</string>
+</resources>
